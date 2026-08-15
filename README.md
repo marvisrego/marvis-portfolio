@@ -12,10 +12,8 @@ Personal portfolio website built with Next.js 16, Tailwind CSS 4, and Framer Mot
 
 ## Getting Started
 
-```bash
-npm install
-npm run dev
-```
+accessible via this link
+https://marvis-portfolio-kmvkyx4wv-marvisregos-projects.vercel.app
 
 
 ## Project Structure
@@ -38,7 +36,6 @@ src/
     Footer.tsx        # Footer with social links
     ScrollReveal.tsx  # Reusable scroll animation wrapper
 public/
-  Marvis_Rego_Resume.pdf
 ```
 
 ## Deployment
