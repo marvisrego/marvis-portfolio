@@ -36,10 +36,12 @@ export default function Hero() {
           transition={{ duration: 0.7, delay: 0.7 }}
           className="text-text-secondary text-lg max-w-xl leading-relaxed mb-9"
         >
-          ML Engineer at{" "}
-          <span className="text-foreground">Global Hotel Alliance</span>, shipping
-          production AI on Databricks. From fraud detection to LLM-powered scoring
-          systems, I turn messy data into decisions that move the business.
+          Machine Learning Engineer at{" "}
+          <span className="text-foreground">Global Hotel Alliance</span> in Dubai,
+          with a Master's in Data Science and AI. I build and deploy production ML
+          systems on Azure Databricks, from member activation models and LLM-powered
+          scoring pipelines to fraud detection and financial forecasting. I work across
+          teams to turn large-scale data into real business outcomes.
         </motion.p>
         <motion.div
           initial={{ opacity: 0, y: 20 }}

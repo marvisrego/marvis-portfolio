@@ -14,9 +14,9 @@ const workProjects = [
   },
   {
     title: "Property Labelling Pipeline",
-    tech: ["Azure OpenAI", "Llama-4", "Databricks", "PySpark"],
+    tech: ["Azure OpenAI Endpoint", "Meta Llama-4", "Databricks", "PySpark"],
     description:
-      "Automated LLM pipeline leveraging Azure OpenAI (Llama-4-Maverick-17B) to extract luxury and interest labels from unstructured property descriptions. Features cost-optimized incremental processing and custom observability framework.",
+      "Automated LLM pipeline using Meta's Llama-4-Maverick-17B model served via Azure OpenAI endpoints to extract luxury and interest labels from unstructured property descriptions. Features cost-optimized incremental processing and custom observability framework.",
     highlights: [
       "Robust JSON parsing with fallback mechanisms for LLM outputs",
       "Incremental scoring architecture bypassing already-scored properties",

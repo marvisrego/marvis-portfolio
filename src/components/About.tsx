@@ -20,7 +20,7 @@ export default function About() {
                 <span className="text-foreground font-medium">Global Hotel Alliance</span>{" "}
                 in Dubai, where I own the ML stack on Azure Databricks. Everything from
                 feature pipelines to model deployment and post-production monitoring. The loyalty
-                program serves millions of members across 800+ hotels, so the systems have to
+                program serves millions of members across 1000+ hotels and 60+ brands, so the systems have to
                 actually work at scale.
               </p>
             </ScrollReveal>
