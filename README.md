@@ -13,7 +13,7 @@ Personal portfolio website built with Next.js 16, Tailwind CSS 4, and Framer Mot
 ## Getting Started
 
 accessible via this link
-https://marvis-portfolio-kmvkyx4wv-marvisregos-projects.vercel.app
+
 
 
 ## Project Structure
