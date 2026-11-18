@@ -12,7 +12,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="font-mono text-primary text-sm mb-5"
         >
-          hi, i'm
+          hi, i&apos;m
         </motion.p>
         <motion.h1
           initial={{ opacity: 0, y: 30 }}
@@ -36,11 +36,11 @@ export default function Hero() {
           transition={{ duration: 0.7, delay: 0.7 }}
           className="text-text-secondary text-lg max-w-xl leading-relaxed mb-9"
         >
-          Machine Learning Engineer at{" "}
-          <span className="text-foreground">Global Hotel Alliance</span> in Dubai,
-          with a Master's in Data Science and AI. I build and deploy production ML
-          systems on Azure Databricks, from member activation models and LLM-powered
-          scoring pipelines to fraud detection and financial forecasting. I work across
+          Machine Learning Engineer based in Dubai, with a Master&apos;s in Data Science
+          and AI. Previously at{" "}
+          <span className="text-foreground">Global Hotel Alliance</span>, I built and
+          deployed production ML systems on Azure Databricks, from member activation
+          models and LLM-powered scoring pipelines to financial forecasting. I work across
           teams to turn large-scale data into real business outcomes.
         </motion.p>
         <motion.div
@@ -53,7 +53,7 @@ export default function Hero() {
             href="#projects"
             className="px-6 py-3 bg-primary hover:bg-primary-hover text-background font-medium rounded transition-colors duration-200"
           >
-            See what I've built
+            See what I&apos;ve built
           </a>
           <a
             href="#contact"
