@@ -7,7 +7,6 @@ const bullets = [
   "Developed an LLM-powered smart scoring system using Meta's Llama-4-Maverick-17B served via Azure OpenAI endpoints, combined with NLP and text mining techniques, deployed in production for marketing personalization, luxury property labelling, and targeted campaign delivery.",
   "Delivered AI-driven behavioral segmentation using statistical clustering on large-scale loyalty data, categorizing members by activity level, platform profile, and funnel position, enabling precision-targeted outreach with the Marketing team.",
   "Built a URR (Ultimate Redemption Rate) forecasting model for the Finance team to predict earned points and outstanding points redemption patterns. Complex data processing on PostgreSQL, model training and registration on Azure Databricks with MLflow, enabling accurate liability calculation for redeemed loyalty points on the company's financial books.",
-  "Built an anomaly and fraud detection pipeline with automated alerting integrated into the production observability stack, enabling real-time monitoring of suspicious transactional patterns across the loyalty program.",
   "Engineered scalable PySpark ETL pipelines to ingest, process, clean, and transform multi-million row datasets from enterprise data warehouses, ensuring reliable feature sets for all predictive workloads.",
   "Collaborated cross-functionally with Marketing on activation segmentation and property labelling, and with Finance on automation and liability forecasting.",
 ];
@@ -36,14 +35,14 @@ export default function Experience() {
                 </p>
               </div>
               <p className="font-mono text-xs text-text-secondary mt-2 sm:mt-1 shrink-0 bg-background px-2.5 py-1 rounded border border-border">
-                Jan 2026 – Present
+                Jan 2026 – Sep 2026
               </p>
             </div>
 
             <p className="text-text-secondary text-sm leading-relaxed my-5">
-              Owning the ML stack for a global loyalty program (1000+ hotels, 60+ brands). Building, deploying, and
-              monitoring production AI systems on Azure Databricks. Working across Marketing and Finance
-              to deliver models that directly impact revenue and reporting.
+              Owned the ML stack for a global loyalty program (1000+ hotels, 60+ brands). Built, deployed, and
+              monitored production AI systems on Azure Databricks. Worked across Marketing and Finance
+              to deliver models that directly impacted revenue and reporting.
             </p>
 
             <ul className="space-y-4">

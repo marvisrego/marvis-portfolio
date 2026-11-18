@@ -16,9 +16,9 @@ export default function About() {
           <div className="md:col-span-2 space-y-5 text-text-secondary leading-relaxed">
             <ScrollReveal delay={0.1}>
               <p>
-                I work at{" "}
+                I previously worked at{" "}
                 <span className="text-foreground font-medium">Global Hotel Alliance</span>{" "}
-                in Dubai, where I own the ML stack on Azure Databricks. Everything from
+                in Dubai, where I owned the ML stack on Azure Databricks. Everything from
                 feature pipelines to model deployment and post-production monitoring. The loyalty
                 program serves millions of members across 1000+ hotels and 60+ brands, so the systems have to
                 actually work at scale.
@@ -26,17 +26,17 @@ export default function About() {
             </ScrollReveal>
             <ScrollReveal delay={0.2}>
               <p>
-                Day-to-day that means building classification models for member activation,
+                My work included building classification models for member activation,
                 LLM pipelines that score properties from unstructured text, behavioral segmentation
-                engines, fraud detection, and forecasting models for the finance team's liability books.
-                I collaborate directly with Marketing and Finance, not just shipping models but making
-                sure they solve the actual business problem.
+                engines, and forecasting models for the finance team&apos;s liability books.
+                I collaborated directly with Marketing and Finance, not just shipping models but making
+                sure they solved the actual business problem.
               </p>
             </ScrollReveal>
             <ScrollReveal delay={0.3}>
               <p>
-                I'm wrapping up an MSc in Data Science & AI at Middlesex University Dubai
-                (4.0 GPA) and I'm always looking for harder problems to work on.
+                I completed an MSc in Data Science & AI at Middlesex University Dubai
+                (4.0 GPA) and I&apos;m always looking for harder problems to work on.
               </p>
             </ScrollReveal>
           </div>

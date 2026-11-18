@@ -5,12 +5,12 @@ export default function Contact() {
     <section id="contact" className="py-28 px-6">
       <ScrollReveal>
       <div className="max-w-2xl mx-auto text-center">
-        <p className="font-mono text-primary text-sm mb-4">06. What's Next?</p>
+        <p className="font-mono text-primary text-sm mb-4">06. What&apos;s Next?</p>
         <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-6">
           Get In Touch
         </h2>
         <p className="text-text-secondary leading-relaxed mb-10">
-          I'm currently open to new opportunities in AI, ML, Data Science, and
+          I&apos;m currently open to new opportunities in AI, ML, Data Science, and
           Software Development roles. Whether you have a question or just want
           to say hi, my inbox is always open.
         </p>
